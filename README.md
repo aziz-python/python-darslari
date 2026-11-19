@@ -1,2 +1,2 @@
-# python-darslari
-Mening python darslarim
+Python-darslari
+Ushbu repository da python darslari jamlangan
